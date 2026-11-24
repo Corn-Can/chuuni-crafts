@@ -1,0 +1,818 @@
+{
+ "whoosh": {
+  "sound": "anime_punch_real_swing3",
+  "layer": false,
+  "volume": 0.9,
+  "max": 0
+ },
+ "sparkle": {
+  "sound": "anime_shine4",
+  "layer": false,
+  "volume": 0.8,
+  "max": 3.0
+ },
+ "title_slam": {
+  "sound": "anime_metal_logo1",
+  "layer": false,
+  "volume": 1.0,
+  "max": 0
+ },
+ "combo_ping": {
+  "sound": "anime_decision10",
+  "layer": false,
+  "volume": 0.8,
+  "max": 0
+ },
+ "holy_descend": {
+  "sound": "anime_magic_cure4",
+  "layer": false,
+  "volume": 1.0,
+  "max": 0
+ },
+ "enchant_charge": {
+  "sound": "anime_magic_circle1",
+  "layer": false,
+  "volume": 1.0,
+  "max": 0
+ },
+ "enchant_beam": {
+  "sound": "anime_magic_attack_holy1",
+  "layer": true,
+  "volume": 1.0,
+  "max": 3.0
+ },
+ "forge_ignite": {
+  "sound": "anime_magic_flame2",
+  "layer": false,
+  "volume": 0.9,
+  "max": 0
+ },
+ "forge_clang": {
+  "sound": "anime_sword_clash2",
+  "layer": true,
+  "volume": 1.0,
+  "max": 0
+ },
+ "forge_final": {
+  "sound": "anime_sword_clash3",
+  "layer": true,
+  "volume": 1.0,
+  "max": 0
+ },
+ "forge_quench": {
+  "sound": "anime_magic_ice2",
+  "layer": false,
+  "volume": 0.9,
+  "max": 0
+ },
+ "blade_glint": {
+  "sound": "anime_eye_shine2",
+  "layer": false,
+  "volume": 1.0,
+  "max": 0
+ },
+ "craft_blueprint": {
+  "sound": "anime_paper_take2",
+  "layer": false,
+  "volume": 1.0,
+  "max": 0
+ },
+ "craft_assemble": {
+  "sound": "anime_union3",
+  "layer": false,
+  "volume": 1.0,
+  "max": 0
+ },
+ "craft_forge": {
+  "sound": "anime_union1",
+  "layer": true,
+  "volume": 1.0,
+  "max": 0
+ },
+ "map_unfurl": {
+  "sound": "anime_newspaper_take1",
+  "layer": false,
+  "volume": 1.0,
+  "max": 0
+ },
+ "holo_boot": {
+  "sound": "anime_robot_startup2",
+  "layer": false,
+  "volume": 0.9,
+  "max": 0
+ },
+ "compass_spin": {
+  "sound": "anime_wepon_swing1",
+  "layer": false,
+  "volume": 1.0,
+  "max": 0
+ },
+ "eye_open": {
+  "sound": "anime_robot_eye_flash1",
+  "layer": true,
+  "volume": 1.0,
+  "max": 0
+ },
+ "world_scan": {
+  "sound": "anime_data_analysis1",
+  "layer": false,
+  "volume": 0.9,
+  "max": 0
+ },
+ "fire_ignite": {
+  "sound": "anime_magic_flame1",
+  "layer": false,
+  "volume": 1.0,
+  "max": 0
+ },
+ "fire_roar": {
+  "sound": "anime_dragon_fire1",
+  "layer": false,
+  "volume": 0.9,
+  "max": 0
+ },
+ "inferno_burst": {
+  "sound": "anime_magic_flame3",
+  "layer": false,
+  "volume": 1.0,
+  "max": 0
+ },
+ "ember_settle": {
+  "sound": "anime_fire1",
+  "layer": false,
+  "volume": 0.6,
+  "max": 3.0
+ },
+ "fire_puff": {
+  "sound": "anime_magic_flame1",
+  "layer": false,
+  "volume": 0.7,
+  "max": 0
+ },
+ "plasma_charge": {
+  "sound": "anime_beam_gun_charge1",
+  "layer": false,
+  "volume": 0.9,
+  "max": 0
+ },
+ "plasma_cut": {
+  "sound": "anime_iainuki1",
+  "layer": false,
+  "volume": 1.0,
+  "max": 0
+ },
+ "steam_cool": {
+  "sound": "anime_train_door1",
+  "layer": false,
+  "volume": 0.8,
+  "max": 0
+ },
+ "smoke_swirl": {
+  "sound": "anime_magic_wind1",
+  "layer": false,
+  "volume": 0.9,
+  "max": 0
+ },
+ "smoke_gong": {
+  "sound": "anime_ban1",
+  "layer": false,
+  "volume": 1.0,
+  "max": 3.0
+ },
+ "incense_settle": {
+  "sound": "anime_tirin1",
+  "layer": false,
+  "volume": 0.8,
+  "max": 0
+ },
+ "anchor_charge": {
+  "sound": "anime_magic_charge1",
+  "layer": false,
+  "volume": 0.9,
+  "max": 0
+ },
+ "anchor_pact": {
+  "sound": "anime_magic_attack_darkness1",
+  "layer": false,
+  "volume": 1.0,
+  "max": 3.0
+ },
+ "anchor_blast": {
+  "sound": "anime_big_explosion2",
+  "layer": true,
+  "volume": 1.0,
+  "max": 3.0
+ },
+ "beacon_rise": {
+  "sound": "anime_magic_statusup1",
+  "layer": false,
+  "volume": 1.0,
+  "max": 0
+ },
+ "beacon_descent": {
+  "sound": "anime_magic_attack_holy1",
+  "layer": true,
+  "volume": 1.0,
+  "max": 3.0
+ },
+ "smith_hammer": {
+  "sound": "anime_machine_hard_hit1",
+  "layer": true,
+  "volume": 1.0,
+  "max": 0
+ },
+ "smith_fuse": {
+  "sound": "anime_qigong2",
+  "layer": false,
+  "volume": 1.0,
+  "max": 0
+ },
+ "grind_spin": {
+  "sound": "anime_giant_motor1",
+  "layer": false,
+  "volume": 0.8,
+  "max": 3.0
+ },
+ "grind_strip": {
+  "sound": "anime_magic_drain2",
+  "layer": false,
+  "volume": 1.0,
+  "max": 0
+ },
+ "brew_bubble": {
+  "sound": "anime_water_bukubuku1",
+  "layer": false,
+  "volume": 0.8,
+  "max": 3.0
+ },
+ "brew_transmute": {
+  "sound": "anime_magic_status_cure2",
+  "layer": false,
+  "volume": 1.0,
+  "max": 0
+ },
+ "portal_ignite": {
+  "sound": "anime_magic_flame1",
+  "layer": true,
+  "volume": 0.9,
+  "max": 0
+ },
+ "portal_open": {
+  "sound": "anime_magic_attack_darkness1",
+  "layer": true,
+  "volume": 1.0,
+  "max": 3.0
+ },
+ "end_open": {
+  "sound": "anime_slow_motion_end1",
+  "layer": true,
+  "volume": 1.0,
+  "max": 0
+ },
+ "vault_unlock": {
+  "sound": "anime_key_in1",
+  "layer": true,
+  "volume": 1.0,
+  "max": 0
+ },
+ "vault_burst": {
+  "sound": "anime_item_get2",
+  "layer": false,
+  "volume": 1.0,
+  "max": 0
+ },
+ "dream_fall": {
+  "sound": "anime_remember_the_past1",
+  "layer": false,
+  "volume": 0.9,
+  "max": 0
+ },
+ "dream_dawn": {
+  "sound": "anime_shine2",
+  "layer": false,
+  "volume": 0.9,
+  "max": 3.0
+ },
+ "egg_warp": {
+  "sound": "anime_magic_worp1",
+  "layer": false,
+  "volume": 1.0,
+  "max": 0
+ },
+ "egg_appear": {
+  "sound": "anime_dragon_cry2",
+  "layer": true,
+  "volume": 0.9,
+  "max": 0
+ },
+ "brush_sweep": {
+  "sound": "anime_broom_fallen_leaves2",
+  "layer": false,
+  "volume": 0.8,
+  "max": 0
+ },
+ "relic_reveal": {
+  "sound": "anime_shine1",
+  "layer": true,
+  "volume": 1.0,
+  "max": 3.0
+ },
+ "magnet_hum": {
+  "sound": "anime_magic_gravity2",
+  "layer": false,
+  "volume": 0.9,
+  "max": 0
+ },
+ "magnet_lock": {
+  "sound": "anime_katana_hold1",
+  "layer": true,
+  "volume": 1.0,
+  "max": 0
+ },
+ "seal_open": {
+  "sound": "anime_shakin3",
+  "layer": true,
+  "volume": 0.9,
+  "max": 0
+ },
+ "seal_close": {
+  "sound": "anime_katana_storage1",
+  "layer": false,
+  "volume": 1.0,
+  "max": 0
+ },
+ "cauldron_fill": {
+  "sound": "anime_sprinkle_water1",
+  "layer": false,
+  "volume": 0.9,
+  "max": 0
+ },
+ "cauldron_lava": {
+  "sound": "anime_magma_lake1",
+  "layer": false,
+  "volume": 0.8,
+  "max": 3.0
+ },
+ "cauldron_frost": {
+  "sound": "anime_magic_ice1",
+  "layer": false,
+  "volume": 0.9,
+  "max": 0
+ },
+ "cauldron_swirl": {
+  "sound": "anime_magic_poison2",
+  "layer": false,
+  "volume": 0.8,
+  "max": 0
+ },
+ "wax_seal": {
+  "sound": "anime_peta1",
+  "layer": false,
+  "volume": 0.9,
+  "max": 0
+ },
+ "copper_scrape": {
+  "sound": "anime_sword_drawn1",
+  "layer": false,
+  "volume": 0.9,
+  "max": 0
+ },
+ "candle_light": {
+  "sound": "anime_cute_pose1",
+  "layer": false,
+  "volume": 0.8,
+  "max": 0
+ },
+ "candle_snuff": {
+  "sound": "anime_cancel4",
+  "layer": false,
+  "volume": 0.7,
+  "max": 0
+ },
+ "camp_ignite": {
+  "sound": "anime_magic_flame2",
+  "layer": false,
+  "volume": 0.9,
+  "max": 0
+ },
+ "camp_douse": {
+  "sound": "anime_train_door1",
+  "layer": false,
+  "volume": 0.8,
+  "max": 0
+ },
+ "tnt_fuse": {
+  "sound": "anime_emergency_alert1",
+  "layer": true,
+  "volume": 0.6,
+  "max": 0
+ },
+ "stone_saw": {
+  "sound": "anime_katana_slash5",
+  "layer": false,
+  "volume": 1.0,
+  "max": 0
+ },
+ "loom_weave": {
+  "sound": "anime_magic_stick1",
+  "layer": false,
+  "volume": 0.9,
+  "max": 0
+ },
+ "crafter_pulse": {
+  "sound": "anime_arm_action2",
+  "layer": false,
+  "volume": 0.8,
+  "max": 0
+ },
+ "disc_drop": {
+  "sound": "anime_jajean1",
+  "layer": false,
+  "volume": 0.8,
+  "max": 0
+ },
+ "book_place": {
+  "sound": "anime_solemnity1",
+  "layer": true,
+  "volume": 0.9,
+  "max": 3.0
+ },
+ "page_turn": {
+  "sound": "anime_page2",
+  "layer": false,
+  "volume": 0.9,
+  "max": 3.0
+ },
+ "compost_add": {
+  "sound": "anime_nyu1",
+  "layer": false,
+  "volume": 0.8,
+  "max": 0
+ },
+ "compost_harvest": {
+  "sound": "anime_magic_cure2",
+  "layer": false,
+  "volume": 0.9,
+  "max": 0
+ },
+ "honey_drip": {
+  "sound": "anime_glass_wine1",
+  "layer": false,
+  "volume": 0.8,
+  "max": 0
+ },
+ "comb_cut": {
+  "sound": "anime_knife_slash_1",
+  "layer": false,
+  "volume": 0.9,
+  "max": 0
+ },
+ "pumpkin_carve": {
+  "sound": "anime_horror_text1",
+  "layer": true,
+  "volume": 0.8,
+  "max": 0
+ },
+ "spawner_bind": {
+  "sound": "anime_magic_drain1",
+  "layer": false,
+  "volume": 1.0,
+  "max": 0
+ },
+ "ender_open": {
+  "sound": "anime_treasure_chest1",
+  "layer": true,
+  "volume": 0.9,
+  "max": 0
+ },
+ "shulker_open": {
+  "sound": "anime_extend1",
+  "layer": false,
+  "volume": 0.9,
+  "max": 0
+ },
+ "golem_pose": {
+  "sound": "anime_robot_footstep2",
+  "layer": false,
+  "volume": 0.9,
+  "max": 0
+ },
+ "sign_dye": {
+  "sound": "anime_magic_cap_write1",
+  "layer": false,
+  "volume": 0.9,
+  "max": 3.0
+ },
+ "sign_glow": {
+  "sound": "anime_shine3",
+  "layer": false,
+  "volume": 0.8,
+  "max": 0
+ },
+ "cake_bite": {
+  "sound": "anime_suck1",
+  "layer": false,
+  "volume": 0.9,
+  "max": 0
+ },
+ "plant_settle": {
+  "sound": "anime_nyu3",
+  "layer": false,
+  "volume": 0.6,
+  "max": 0
+ },
+ "note_glow": {
+  "sound": "anime_decision28",
+  "layer": false,
+  "volume": 0.7,
+  "max": 0
+ },
+ "lever_click": {
+  "sound": "anime_decision19",
+  "layer": false,
+  "volume": 0.6,
+  "max": 0
+ },
+ "button_tick": {
+  "sound": "anime_decision31",
+  "layer": false,
+  "volume": 0.6,
+  "max": 0
+ },
+ "diode_tick": {
+  "sound": "anime_cursor4",
+  "layer": false,
+  "volume": 0.5,
+  "max": 0
+ },
+ "daylight_flip": {
+  "sound": "anime_decision21",
+  "layer": false,
+  "volume": 0.6,
+  "max": 0
+ },
+ "bark_peel": {
+  "sound": "anime_paper_tear2",
+  "layer": false,
+  "volume": 0.7,
+  "max": 0
+ },
+ "soil_till": {
+  "sound": "anime_step_into1",
+  "layer": false,
+  "volume": 0.7,
+  "max": 0
+ },
+ "path_press": {
+  "sound": "anime_landing1",
+  "layer": false,
+  "volume": 0.7,
+  "max": 0
+ },
+ "bloom_burst": {
+  "sound": "anime_shine5",
+  "layer": false,
+  "volume": 0.7,
+  "max": 3.0
+ },
+ "berry_pop": {
+  "sound": "anime_pa1",
+  "layer": false,
+  "volume": 0.7,
+  "max": 0
+ },
+ "golem_awaken": {
+  "sound": "anime_robot_startup1",
+  "layer": true,
+  "volume": 1.0,
+  "max": 0
+ },
+ "golem_stomp": {
+  "sound": "anime_union2",
+  "layer": true,
+  "volume": 1.0,
+  "max": 0
+ },
+ "wither_storm": {
+  "sound": "anime_magic_electron3",
+  "layer": true,
+  "volume": 1.0,
+  "max": 3.0
+ },
+ "wither_roar": {
+  "sound": "anime_dragon_cry1",
+  "layer": true,
+  "volume": 1.0,
+  "max": 0
+ },
+ "snow_spirit": {
+  "sound": "anime_magic_ice3",
+  "layer": false,
+  "volume": 0.9,
+  "max": 0
+ },
+ "copper_birth": {
+  "sound": "anime_arm_action1",
+  "layer": false,
+  "volume": 0.9,
+  "max": 0
+ },
+ "tame_bond": {
+  "sound": "anime_heart2",
+  "layer": true,
+  "volume": 0.9,
+  "max": 0
+ },
+ "name_bestow": {
+  "sound": "anime_hero1",
+  "layer": false,
+  "volume": 1.0,
+  "max": 0
+ },
+ "shear_snip": {
+  "sound": "anime_knife_slash_1",
+  "layer": false,
+  "volume": 0.8,
+  "max": 0
+ },
+ "milk_pour": {
+  "sound": "anime_water_shed1",
+  "layer": false,
+  "volume": 0.8,
+  "max": 3.0
+ },
+ "equip_armor": {
+  "sound": "anime_decision14",
+  "layer": false,
+  "volume": 0.9,
+  "max": 0
+ },
+ "mob_dye": {
+  "sound": "anime_cute_pose2",
+  "layer": false,
+  "volume": 0.8,
+  "max": 0
+ },
+ "scute_brush": {
+  "sound": "anime_broom_fallen_leaves2",
+  "layer": false,
+  "volume": 0.8,
+  "max": 0
+ },
+ "allay_chime": {
+  "sound": "anime_shine6",
+  "layer": false,
+  "volume": 0.8,
+  "max": 3.0
+ },
+ "bucket_catch": {
+  "sound": "anime_water_throw_stone1",
+  "layer": false,
+  "volume": 0.8,
+  "max": 0
+ },
+ "barter_gold": {
+  "sound": "anime_item_get1",
+  "layer": false,
+  "volume": 0.9,
+  "max": 0
+ },
+ "creeper_hiss": {
+  "sound": "anime_approaching_fear1",
+  "layer": true,
+  "volume": 0.8,
+  "max": 0
+ },
+ "crystal_place": {
+  "sound": "anime_decision16",
+  "layer": false,
+  "volume": 0.9,
+  "max": 0
+ },
+ "cure_start": {
+  "sound": "anime_magic_status_cure1",
+  "layer": false,
+  "volume": 1.0,
+  "max": 0
+ },
+ "cure_finish": {
+  "sound": "anime_magic_cure3",
+  "layer": false,
+  "volume": 1.0,
+  "max": 3.0
+ },
+ "trade_seal": {
+  "sound": "anime_amount_display1",
+  "layer": false,
+  "volume": 0.8,
+  "max": 0
+ },
+ "stand_equip": {
+  "sound": "anime_decision19",
+  "layer": false,
+  "volume": 0.7,
+  "max": 0
+ },
+ "frame_place": {
+  "sound": "anime_decision7",
+  "layer": false,
+  "volume": 0.7,
+  "max": 0
+ },
+ "frame_rotate": {
+  "sound": "anime_cursor2",
+  "layer": false,
+  "volume": 0.6,
+  "max": 0
+ },
+ "love_heart": {
+  "sound": "anime_heart2",
+  "layer": false,
+  "volume": 0.8,
+  "max": 0
+ },
+ "leash_tie": {
+  "sound": "anime_constriction1",
+  "layer": false,
+  "volume": 0.8,
+  "max": 3.0
+ },
+ "mount_ride": {
+  "sound": "anime_rubbing_clothes_kick2",
+  "layer": false,
+  "volume": 0.8,
+  "max": 0
+ },
+ "bottle_fill": {
+  "sound": "anime_glass_water1",
+  "layer": false,
+  "volume": 0.7,
+  "max": 0
+ },
+ "bucket_fill": {
+  "sound": "anime_sprinkle_water2",
+  "layer": false,
+  "volume": 0.7,
+  "max": 0
+ },
+ "bucket_pour": {
+  "sound": "anime_bath_out1",
+  "layer": false,
+  "volume": 0.7,
+  "max": 0
+ },
+ "mud_make": {
+  "sound": "anime_magic_poison2",
+  "layer": false,
+  "volume": 0.7,
+  "max": 0
+ },
+ "wire_toggle": {
+  "sound": "anime_magic_electron1",
+  "layer": false,
+  "volume": 0.6,
+  "max": 0
+ },
+ "ore_glow": {
+  "sound": "anime_magic_electron2",
+  "layer": false,
+  "volume": 0.7,
+  "max": 0
+ },
+ "camp_place": {
+  "sound": "anime_landing1",
+  "layer": true,
+  "volume": 0.6,
+  "max": 0
+ },
+ "lid_thud": {
+  "sound": "anime_katana_storage1",
+  "layer": true,
+  "volume": 0.6,
+  "max": 0
+ },
+ "hatch_clank": {
+  "sound": "anime_katana_storage1",
+  "layer": true,
+  "volume": 0.7,
+  "max": 0
+ },
+ "book_slide": {
+  "sound": "anime_paper_take2",
+  "layer": false,
+  "volume": 0.8,
+  "max": 0
+ },
+ "shelf_place": {
+  "sound": "anime_decision7",
+  "layer": false,
+  "volume": 0.7,
+  "max": 0
+ },
+ "pot_drop": {
+  "sound": "anime_landing1",
+  "layer": true,
+  "volume": 0.7,
+  "max": 0
+ }
+}

@@ -1,0 +1,33 @@
+{
+	"schemaVersion": 1,
+	"id": "chuuni",
+	"version": "${version}",
+	"name": "Chuuni Crafts 中二工坊",
+	"description": "和方塊互動時變得超級中二：附魔的星辰刻印、鐵砧的靈魂鍛造、工作台的萬象構築、製圖台的全知之眼、熔爐的獄炎煉成、連開門都是封印解除。原創模型與材質，並附動漫風音效（部分音效素材：効果音ラボ）。",
+	"authors": [
+		"andy1021128"
+	],
+	"license": "LicenseRef-Chuuni-Crafts",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.chuuni.Chuuni"
+		],
+		"client": [
+			"com.chuuni.client.ChuuniClient"
+		]
+	},
+	"mixins": [
+		"chuuni.mixins.json",
+		{
+			"config": "chuuni.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~1.21.11",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

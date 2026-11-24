@@ -1,0 +1,57 @@
+# gradle
+
+.gradle/
+build/
+out/
+classes/
+
+# eclipse
+
+*.launch
+
+# idea
+
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# vscode
+
+.settings/
+.vscode/
+bin/
+.classpath
+.project
+
+# macos
+
+*.DS_Store
+
+# fabric
+
+run/
+
+# java
+
+hs_err_*.log
+replay_*.log
+*.hprof
+*.jfr
+
+# template archive
+fabric-example-mod-*.zip
+
+# python
+__pycache__/
+
+# third-party raw sound sources (not redistributable as material)
+tools/anime_src/
+
+# local screenshots / test captures
+showcase/
+showcase_*/
+showcase_*.png
+
+# Sound Effect Lab clips: regenerate with tools/fetch_anime_sfx.py
+src/client/resources/assets/chuuni/sounds/anime_*.ogg

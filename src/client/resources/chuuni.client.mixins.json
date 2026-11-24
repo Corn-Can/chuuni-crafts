@@ -1,0 +1,20 @@
+{
+	"required": true,
+	"package": "com.chuuni.client.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"client": [
+		"CameraMixin",
+		"ClientPacketListenerMixin",
+		"EntityRenderDispatcherMixin",
+		"GameRendererMixin",
+		"GuiMixin",
+		"ScreenMixin",
+		"MouseHandlerMixin",
+		"KeyboardHandlerMixin",
+		"LevelRendererMixin",
+		"ToastManagerMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

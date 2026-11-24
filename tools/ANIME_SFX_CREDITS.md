@@ -1,0 +1,139 @@
+# 動漫風音效素材出處（不需標註，僅作紀錄）
+素材提供：効果音ラボ https://soundeffect-lab.info/
+
+- anime_inhale.ogg ← 「超必殺技発動」 https://soundeffect-lab.info/sound/battle/ （A 級吸氣（集中線收緊））
+- anime_hit.ogg ← 「必殺技ヒット」 https://soundeffect-lab.info/sound/battle/ （A 級衝擊）
+- anime_slowmo.ogg ← 「スローモーション」 https://soundeffect-lab.info/sound/battle/ （A 級英雄慢動作）
+- anime_title.ogg ← 「文字表示の衝撃音1」 https://soundeffect-lab.info/sound/anime/ （毛筆招式名落款）
+- anime_char.ogg ← 「文字表示の衝撃音3」 https://soundeffect-lab.info/sound/anime/ （招式名每個字砸下）
+- anime_shakin.ogg ← 「シャキーン1」 https://soundeffect-lab.info/sound/anime/ （漫畫四角大字（時停））
+- anime_kira.ogg ← 「キラッ2」 https://soundeffect-lab.info/sound/anime/ （B 級小招式名、書架亮起）
+- anime_eye_shine.ogg ← 「きらーん1」 https://soundeffect-lab.info/sound/anime/ （終界之眼嵌入）
+- anime_circle.ogg ← 「魔法陣を展開」 https://soundeffect-lab.info/sound/battle/ （終界門十二法陣展開）
+- anime_aura.ogg ← 「オーラ2」 https://soundeffect-lab.info/sound/battle/ （終界門光柱合一）
+- anime_dash.ogg ← 「高速移動」 https://soundeffect-lab.info/sound/battle/ （珍珠出手）
+- anime_warp.ogg ← 「ワープ」 https://soundeffect-lab.info/sound/battle/ （珍珠落地瞬移）
+- anime_rise.ogg ← 「ステータス上昇魔法2」 https://soundeffect-lab.info/sound/battle/ （終界之眼升空）
+- anime_temple_bell.ogg ← 「お寺の鐘」 https://soundeffect-lab.info/sound/anime/ （鐘 一～十一響）
+- anime_holy.ogg ← 「聖魔法」 https://soundeffect-lab.info/sound/battle/ （鐘 第十二響）
+- anime_bomb.ogg ← 「爆発3」 https://soundeffect-lab.info/sound/battle/ （大爆炸）
+- anime_bomb_small.ogg ← 「爆発1」 https://soundeffect-lab.info/sound/battle/ （小爆炸）
+- anime_punch_real_swing3.ogg ← 「パンチの素振り3」 https://soundeffect-lab.info/sound/battle/
+- anime_shine4.ogg ← 「きらきら輝く4」 https://soundeffect-lab.info/sound/anime/
+- anime_metal_logo1.ogg ← 「金属タイトル表示1」 https://soundeffect-lab.info/sound/anime/
+- anime_decision10.ogg ← 「決定ボタンを押す10」 https://soundeffect-lab.info/sound/button/
+- anime_magic_cure4.ogg ← 「回復魔法4」 https://soundeffect-lab.info/sound/battle/
+- anime_magic_circle1.ogg ← 「魔法陣を展開」 https://soundeffect-lab.info/sound/battle/
+- anime_magic_attack_holy1.ogg ← 「聖魔法」 https://soundeffect-lab.info/sound/battle/
+- anime_magic_flame2.ogg ← 「火炎魔法2」 https://soundeffect-lab.info/sound/battle/
+- anime_sword_clash2.ogg ← 「剣で打ち合う2」 https://soundeffect-lab.info/sound/battle/
+- anime_sword_clash3.ogg ← 「剣で打ち合う3」 https://soundeffect-lab.info/sound/battle/
+- anime_magic_ice2.ogg ← 「氷魔法2」 https://soundeffect-lab.info/sound/battle/
+- anime_eye_shine2.ogg ← 「きらーん2」 https://soundeffect-lab.info/sound/anime/
+- anime_paper_take2.ogg ← 「紙を広げる2」 https://soundeffect-lab.info/sound/various/various2.html
+- anime_union3.ogg ← 「ロボット合体3」 https://soundeffect-lab.info/sound/machine/
+- anime_union1.ogg ← 「ロボット合体1」 https://soundeffect-lab.info/sound/machine/
+- anime_newspaper_take1.ogg ← 「新聞紙を広げる」 https://soundeffect-lab.info/sound/various/various2.html
+- anime_robot_startup2.ogg ← 「ロボット起動2」 https://soundeffect-lab.info/sound/machine/
+- anime_wepon_swing1.ogg ← 「武器をクルクル回す」 https://soundeffect-lab.info/sound/battle/battle2.html
+- anime_robot_eye_flash1.ogg ← 「ロボットの目が光る」 https://soundeffect-lab.info/sound/machine/
+- anime_data_analysis1.ogg ← 「データ解析」 https://soundeffect-lab.info/sound/anime/
+- anime_magic_flame1.ogg ← 「火炎魔法1」 https://soundeffect-lab.info/sound/battle/
+- anime_dragon_fire1.ogg ← 「ドラゴンが火を吐く」 https://soundeffect-lab.info/sound/battle/
+- anime_magic_flame3.ogg ← 「火炎魔法3」 https://soundeffect-lab.info/sound/battle/
+- anime_fire1.ogg ← 「たき火」 https://soundeffect-lab.info/sound/various/various3.html
+- anime_beam_gun_charge1.ogg ← 「ビーム砲チャージ」 https://soundeffect-lab.info/sound/battle/battle2.html
+- anime_iainuki1.ogg ← 「居合抜き1」 https://soundeffect-lab.info/sound/battle/
+- anime_train_door1.ogg ← 「電車のドアが開く」 https://soundeffect-lab.info/sound/machine/
+- anime_magic_wind1.ogg ← 「風魔法1」 https://soundeffect-lab.info/sound/battle/
+- anime_ban1.ogg ← 「バーン」 https://soundeffect-lab.info/sound/anime/
+- anime_tirin1.ogg ← 「チリン」 https://soundeffect-lab.info/sound/anime/
+- anime_magic_charge1.ogg ← 「パワーチャージ」 https://soundeffect-lab.info/sound/battle/
+- anime_magic_attack_darkness1.ogg ← 「暗黒魔法」 https://soundeffect-lab.info/sound/battle/
+- anime_big_explosion2.ogg ← 「大爆発2」 https://soundeffect-lab.info/sound/battle/battle2.html
+- anime_magic_statusup1.ogg ← 「ステータス上昇魔法1」 https://soundeffect-lab.info/sound/battle/
+- anime_machine_hard_hit1.ogg ← 「ロボットを強く殴る1」 https://soundeffect-lab.info/sound/machine/
+- anime_qigong2.ogg ← 「気弾2」 https://soundeffect-lab.info/sound/battle/
+- anime_giant_motor1.ogg ← 「巨大モーター起動」 https://soundeffect-lab.info/sound/machine/
+- anime_magic_drain2.ogg ← 「HP吸収魔法2」 https://soundeffect-lab.info/sound/battle/
+- anime_water_bukubuku1.ogg ← 「水ぶくぶく1」 https://soundeffect-lab.info/sound/various/
+- anime_magic_status_cure2.ogg ← 「ステータス治療2」 https://soundeffect-lab.info/sound/battle/
+- anime_slow_motion_end1.ogg ← 「スローモーション終了」 https://soundeffect-lab.info/sound/battle/
+- anime_key_in1.ogg ← 「鍵を開ける1」 https://soundeffect-lab.info/sound/various/
+- anime_item_get2.ogg ← 「アイテムを入手2」 https://soundeffect-lab.info/sound/anime/
+- anime_remember_the_past1.ogg ← 「過去を思い出す」 https://soundeffect-lab.info/sound/anime/
+- anime_shine2.ogg ← 「きらきら輝く2」 https://soundeffect-lab.info/sound/anime/
+- anime_magic_worp1.ogg ← 「ワープ」 https://soundeffect-lab.info/sound/battle/
+- anime_dragon_cry2.ogg ← 「ドラゴンの鳴き声2」 https://soundeffect-lab.info/sound/battle/
+- anime_broom_fallen_leaves2.ogg ← 「ほうきで落ち葉を掃く2」 https://soundeffect-lab.info/sound/various/various2.html
+- anime_shine1.ogg ← 「きらきら輝く1」 https://soundeffect-lab.info/sound/anime/
+- anime_magic_gravity2.ogg ← 「重力魔法2」 https://soundeffect-lab.info/sound/battle/
+- anime_katana_hold1.ogg ← 「刀を構える」 https://soundeffect-lab.info/sound/battle/
+- anime_shakin3.ogg ← 「シャキーン3」 https://soundeffect-lab.info/sound/anime/
+- anime_katana_storage1.ogg ← 「刀を鞘にしまう1」 https://soundeffect-lab.info/sound/battle/
+- anime_sprinkle_water1.ogg ← 「水をバシャッとかける1」 https://soundeffect-lab.info/sound/various/
+- anime_magma_lake1.ogg ← 「火山のマグマ」 https://soundeffect-lab.info/sound/animal/
+- anime_magic_ice1.ogg ← 「氷魔法1」 https://soundeffect-lab.info/sound/battle/
+- anime_magic_poison2.ogg ← 「毒魔法2」 https://soundeffect-lab.info/sound/battle/
+- anime_peta1.ogg ← 「ペタッ」 https://soundeffect-lab.info/sound/anime/
+- anime_sword_drawn1.ogg ← 「剣を抜く」 https://soundeffect-lab.info/sound/battle/
+- anime_cute_pose1.ogg ← 「可愛く輝く1」 https://soundeffect-lab.info/sound/anime/
+- anime_cancel4.ogg ← 「キャンセル4」 https://soundeffect-lab.info/sound/button/
+- anime_emergency_alert1.ogg ← 「警報が鳴る」 https://soundeffect-lab.info/sound/anime/
+- anime_katana_slash5.ogg ← 「刀で斬る5」 https://soundeffect-lab.info/sound/battle/
+- anime_magic_stick1.ogg ← 「魔法のステッキ」 https://soundeffect-lab.info/sound/battle/
+- anime_arm_action2.ogg ← 「ロボットが腕を動かす2」 https://soundeffect-lab.info/sound/machine/
+- anime_jajean1.ogg ← 「ジャジャーン」 https://soundeffect-lab.info/sound/anime/
+- anime_solemnity1.ogg ← 「荘厳な雰囲気」 https://soundeffect-lab.info/sound/anime/
+- anime_page2.ogg ← 「ページをめくる2」 https://soundeffect-lab.info/sound/various/various2.html
+- anime_nyu1.ogg ← 「ニュッ1」 https://soundeffect-lab.info/sound/anime/
+- anime_magic_cure2.ogg ← 「回復魔法2」 https://soundeffect-lab.info/sound/battle/
+- anime_glass_wine1.ogg ← 「グラスにワインを注ぐ」 https://soundeffect-lab.info/sound/various/various2.html
+- anime_knife_slash_1.ogg ← 「ナイフで切る」 https://soundeffect-lab.info/sound/battle/
+- anime_horror_text1.ogg ← 「ホラー文字表示音」 https://soundeffect-lab.info/sound/anime/
+- anime_magic_drain1.ogg ← 「HP吸収魔法1」 https://soundeffect-lab.info/sound/battle/
+- anime_treasure_chest1.ogg ← 「宝箱を開ける」 https://soundeffect-lab.info/sound/anime/
+- anime_extend1.ogg ← 「伸びる」 https://soundeffect-lab.info/sound/anime/
+- anime_robot_footstep2.ogg ← 「ロボットの足音2」 https://soundeffect-lab.info/sound/machine/
+- anime_magic_cap_write1.ogg ← 「油性マーカーで字を書く」 https://soundeffect-lab.info/sound/various/various2.html
+- anime_shine3.ogg ← 「きらきら輝く3」 https://soundeffect-lab.info/sound/anime/
+- anime_suck1.ogg ← 「食べ物をパクッ」 https://soundeffect-lab.info/sound/anime/
+- anime_nyu3.ogg ← 「ニュッ3」 https://soundeffect-lab.info/sound/anime/
+- anime_decision28.ogg ← 「決定ボタンを押す28」 https://soundeffect-lab.info/sound/button/
+- anime_decision19.ogg ← 「決定ボタンを押す19」 https://soundeffect-lab.info/sound/button/
+- anime_decision31.ogg ← 「決定ボタンを押す31」 https://soundeffect-lab.info/sound/button/
+- anime_cursor4.ogg ← 「カーソル移動4」 https://soundeffect-lab.info/sound/button/
+- anime_decision21.ogg ← 「決定ボタンを押す21」 https://soundeffect-lab.info/sound/button/
+- anime_paper_tear2.ogg ← 「紙を破く2」 https://soundeffect-lab.info/sound/various/various2.html
+- anime_step_into1.ogg ← 「踏み込む」 https://soundeffect-lab.info/sound/battle/
+- anime_landing1.ogg ← 「ジャンプの着地」 https://soundeffect-lab.info/sound/battle/
+- anime_shine5.ogg ← 「きらきら輝く5」 https://soundeffect-lab.info/sound/anime/
+- anime_pa1.ogg ← 「パッ」 https://soundeffect-lab.info/sound/anime/
+- anime_robot_startup1.ogg ← 「ロボット起動1」 https://soundeffect-lab.info/sound/machine/
+- anime_union2.ogg ← 「ロボット合体2」 https://soundeffect-lab.info/sound/machine/
+- anime_magic_electron3.ogg ← 「雷魔法3」 https://soundeffect-lab.info/sound/battle/
+- anime_dragon_cry1.ogg ← 「ドラゴンの鳴き声1」 https://soundeffect-lab.info/sound/battle/
+- anime_magic_ice3.ogg ← 「氷魔法3」 https://soundeffect-lab.info/sound/battle/
+- anime_arm_action1.ogg ← 「ロボットが腕を動かす1」 https://soundeffect-lab.info/sound/machine/
+- anime_heart2.ogg ← 「心臓の鼓動2」 https://soundeffect-lab.info/sound/anime/
+- anime_hero1.ogg ← 「ヒーローの決めポーズ」 https://soundeffect-lab.info/sound/anime/
+- anime_water_shed1.ogg ← 「水ちょろちょろ」 https://soundeffect-lab.info/sound/various/
+- anime_decision14.ogg ← 「決定ボタンを押す14」 https://soundeffect-lab.info/sound/button/
+- anime_cute_pose2.ogg ← 「可愛く輝く2」 https://soundeffect-lab.info/sound/anime/
+- anime_shine6.ogg ← 「きらきら輝く6」 https://soundeffect-lab.info/sound/anime/
+- anime_water_throw_stone1.ogg ← 「水面に石投げ1」 https://soundeffect-lab.info/sound/various/
+- anime_item_get1.ogg ← 「アイテムを入手1」 https://soundeffect-lab.info/sound/anime/
+- anime_approaching_fear1.ogg ← 「迫り来る恐怖」 https://soundeffect-lab.info/sound/anime/
+- anime_decision16.ogg ← 「決定ボタンを押す16」 https://soundeffect-lab.info/sound/button/
+- anime_magic_status_cure1.ogg ← 「ステータス治療1」 https://soundeffect-lab.info/sound/battle/
+- anime_magic_cure3.ogg ← 「回復魔法3」 https://soundeffect-lab.info/sound/battle/
+- anime_amount_display1.ogg ← 「金額表示」 https://soundeffect-lab.info/sound/anime/
+- anime_decision7.ogg ← 「決定ボタンを押す7」 https://soundeffect-lab.info/sound/button/
+- anime_cursor2.ogg ← 「カーソル移動2」 https://soundeffect-lab.info/sound/button/
+- anime_constriction1.ogg ← 「締め付ける1」 https://soundeffect-lab.info/sound/battle/
+- anime_rubbing_clothes_kick2.ogg ← 「キックの衣擦れ2」 https://soundeffect-lab.info/sound/battle/
+- anime_glass_water1.ogg ← 「グラスに水を注ぐ」 https://soundeffect-lab.info/sound/various/various2.html
+- anime_sprinkle_water2.ogg ← 「水をバシャッとかける2」 https://soundeffect-lab.info/sound/various/
+- anime_bath_out1.ogg ← 「お風呂から上がる」 https://soundeffect-lab.info/sound/various/
+- anime_magic_electron1.ogg ← 「雷魔法1」 https://soundeffect-lab.info/sound/battle/
+- anime_magic_electron2.ogg ← 「雷魔法2」 https://soundeffect-lab.info/sound/battle/

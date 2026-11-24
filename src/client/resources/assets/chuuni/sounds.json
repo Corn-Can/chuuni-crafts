@@ -1,0 +1,3218 @@
+{
+ "name_hit": {
+  "sounds": [
+   {
+    "name": "chuuni:name_hit_1"
+   },
+   {
+    "name": "chuuni:name_hit_2"
+   },
+   {
+    "name": "chuuni:name_hit_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.name_hit"
+ },
+ "brush_hit": {
+  "sounds": [
+   {
+    "name": "chuuni:brush_hit_1"
+   },
+   {
+    "name": "chuuni:brush_hit_2"
+   },
+   {
+    "name": "chuuni:brush_hit_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.brush_hit"
+ },
+ "holy_descend": {
+  "sounds": [
+   {
+    "name": "chuuni:holy_descend_1"
+   },
+   {
+    "name": "chuuni:holy_descend_2"
+   },
+   {
+    "name": "chuuni:holy_descend_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.holy_descend"
+ },
+ "enchant_charge": {
+  "sounds": [
+   {
+    "name": "chuuni:enchant_charge_1"
+   },
+   {
+    "name": "chuuni:enchant_charge_2"
+   },
+   {
+    "name": "chuuni:enchant_charge_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.enchant_charge"
+ },
+ "enchant_beam": {
+  "sounds": [
+   {
+    "name": "chuuni:enchant_beam_1"
+   },
+   {
+    "name": "chuuni:enchant_beam_2"
+   },
+   {
+    "name": "chuuni:enchant_beam_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.enchant_beam"
+ },
+ "sparkle": {
+  "sounds": [
+   {
+    "name": "chuuni:sparkle_1"
+   },
+   {
+    "name": "chuuni:sparkle_2"
+   },
+   {
+    "name": "chuuni:sparkle_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.sparkle"
+ },
+ "title_slam": {
+  "sounds": [
+   {
+    "name": "chuuni:title_slam_1"
+   },
+   {
+    "name": "chuuni:title_slam_2"
+   },
+   {
+    "name": "chuuni:title_slam_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.title_slam"
+ },
+ "shockwave": {
+  "sounds": [
+   {
+    "name": "chuuni:shockwave_1"
+   },
+   {
+    "name": "chuuni:shockwave_2"
+   },
+   {
+    "name": "chuuni:shockwave_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.shockwave"
+ },
+ "whoosh": {
+  "sounds": [
+   {
+    "name": "chuuni:whoosh_1"
+   },
+   {
+    "name": "chuuni:whoosh_2"
+   },
+   {
+    "name": "chuuni:whoosh_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.whoosh"
+ },
+ "forge_ignite": {
+  "sounds": [
+   {
+    "name": "chuuni:forge_ignite_1"
+   },
+   {
+    "name": "chuuni:forge_ignite_2"
+   },
+   {
+    "name": "chuuni:forge_ignite_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.forge_ignite"
+ },
+ "forge_clang": {
+  "sounds": [
+   {
+    "name": "chuuni:forge_clang_1"
+   },
+   {
+    "name": "chuuni:forge_clang_2"
+   },
+   {
+    "name": "chuuni:forge_clang_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.forge_clang"
+ },
+ "forge_final": {
+  "sounds": [
+   {
+    "name": "chuuni:forge_final_1"
+   },
+   {
+    "name": "chuuni:forge_final_2"
+   },
+   {
+    "name": "chuuni:forge_final_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.forge_final"
+ },
+ "forge_quench": {
+  "sounds": [
+   {
+    "name": "chuuni:forge_quench_1"
+   },
+   {
+    "name": "chuuni:forge_quench_2"
+   },
+   {
+    "name": "chuuni:forge_quench_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.forge_quench"
+ },
+ "blade_glint": {
+  "sounds": [
+   {
+    "name": "chuuni:blade_glint_1"
+   },
+   {
+    "name": "chuuni:blade_glint_2"
+   },
+   {
+    "name": "chuuni:blade_glint_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.blade_glint"
+ },
+ "craft_blueprint": {
+  "sounds": [
+   {
+    "name": "chuuni:craft_blueprint_1"
+   },
+   {
+    "name": "chuuni:craft_blueprint_2"
+   },
+   {
+    "name": "chuuni:craft_blueprint_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.craft_blueprint"
+ },
+ "craft_assemble": {
+  "sounds": [
+   {
+    "name": "chuuni:craft_assemble_1"
+   },
+   {
+    "name": "chuuni:craft_assemble_2"
+   },
+   {
+    "name": "chuuni:craft_assemble_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.craft_assemble"
+ },
+ "craft_forge": {
+  "sounds": [
+   {
+    "name": "chuuni:craft_forge_1"
+   },
+   {
+    "name": "chuuni:craft_forge_2"
+   },
+   {
+    "name": "chuuni:craft_forge_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.craft_forge"
+ },
+ "combo_ping": {
+  "sounds": [
+   {
+    "name": "chuuni:combo_ping_1"
+   },
+   {
+    "name": "chuuni:combo_ping_2"
+   },
+   {
+    "name": "chuuni:combo_ping_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.combo_ping"
+ },
+ "map_unfurl": {
+  "sounds": [
+   {
+    "name": "chuuni:map_unfurl_1"
+   },
+   {
+    "name": "chuuni:map_unfurl_2"
+   },
+   {
+    "name": "chuuni:map_unfurl_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.map_unfurl"
+ },
+ "holo_boot": {
+  "sounds": [
+   {
+    "name": "chuuni:holo_boot_1"
+   },
+   {
+    "name": "chuuni:holo_boot_2"
+   },
+   {
+    "name": "chuuni:holo_boot_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.holo_boot"
+ },
+ "compass_spin": {
+  "sounds": [
+   {
+    "name": "chuuni:compass_spin_1"
+   },
+   {
+    "name": "chuuni:compass_spin_2"
+   },
+   {
+    "name": "chuuni:compass_spin_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.compass_spin"
+ },
+ "eye_open": {
+  "sounds": [
+   {
+    "name": "chuuni:eye_open_1"
+   },
+   {
+    "name": "chuuni:eye_open_2"
+   },
+   {
+    "name": "chuuni:eye_open_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.eye_open"
+ },
+ "world_scan": {
+  "sounds": [
+   {
+    "name": "chuuni:world_scan_1"
+   },
+   {
+    "name": "chuuni:world_scan_2"
+   },
+   {
+    "name": "chuuni:world_scan_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.world_scan"
+ },
+ "fire_ignite": {
+  "sounds": [
+   {
+    "name": "chuuni:fire_ignite_1"
+   },
+   {
+    "name": "chuuni:fire_ignite_2"
+   },
+   {
+    "name": "chuuni:fire_ignite_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.fire_ignite"
+ },
+ "fire_roar": {
+  "sounds": [
+   {
+    "name": "chuuni:fire_roar_1"
+   },
+   {
+    "name": "chuuni:fire_roar_2"
+   },
+   {
+    "name": "chuuni:fire_roar_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.fire_roar"
+ },
+ "inferno_burst": {
+  "sounds": [
+   {
+    "name": "chuuni:inferno_burst_1"
+   },
+   {
+    "name": "chuuni:inferno_burst_2"
+   },
+   {
+    "name": "chuuni:inferno_burst_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.inferno_burst"
+ },
+ "ember_settle": {
+  "sounds": [
+   {
+    "name": "chuuni:ember_settle_1"
+   },
+   {
+    "name": "chuuni:ember_settle_2"
+   },
+   {
+    "name": "chuuni:ember_settle_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.ember_settle"
+ },
+ "fire_puff": {
+  "sounds": [
+   {
+    "name": "chuuni:fire_puff_1"
+   },
+   {
+    "name": "chuuni:fire_puff_2"
+   },
+   {
+    "name": "chuuni:fire_puff_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.fire_puff"
+ },
+ "plasma_charge": {
+  "sounds": [
+   {
+    "name": "chuuni:plasma_charge_1"
+   },
+   {
+    "name": "chuuni:plasma_charge_2"
+   },
+   {
+    "name": "chuuni:plasma_charge_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.plasma_charge"
+ },
+ "plasma_cut": {
+  "sounds": [
+   {
+    "name": "chuuni:plasma_cut_1"
+   },
+   {
+    "name": "chuuni:plasma_cut_2"
+   },
+   {
+    "name": "chuuni:plasma_cut_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.plasma_cut"
+ },
+ "steam_cool": {
+  "sounds": [
+   {
+    "name": "chuuni:steam_cool_1"
+   },
+   {
+    "name": "chuuni:steam_cool_2"
+   },
+   {
+    "name": "chuuni:steam_cool_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.steam_cool"
+ },
+ "smoke_swirl": {
+  "sounds": [
+   {
+    "name": "chuuni:smoke_swirl_1"
+   },
+   {
+    "name": "chuuni:smoke_swirl_2"
+   },
+   {
+    "name": "chuuni:smoke_swirl_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.smoke_swirl"
+ },
+ "smoke_gong": {
+  "sounds": [
+   {
+    "name": "chuuni:smoke_gong_1"
+   },
+   {
+    "name": "chuuni:smoke_gong_2"
+   },
+   {
+    "name": "chuuni:smoke_gong_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.smoke_gong"
+ },
+ "incense_settle": {
+  "sounds": [
+   {
+    "name": "chuuni:incense_settle_1"
+   },
+   {
+    "name": "chuuni:incense_settle_2"
+   },
+   {
+    "name": "chuuni:incense_settle_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.incense_settle"
+ },
+ "anchor_charge": {
+  "sounds": [
+   {
+    "name": "chuuni:anchor_charge_1"
+   },
+   {
+    "name": "chuuni:anchor_charge_2"
+   },
+   {
+    "name": "chuuni:anchor_charge_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.anchor_charge"
+ },
+ "anchor_pact": {
+  "sounds": [
+   {
+    "name": "chuuni:anchor_pact_1"
+   },
+   {
+    "name": "chuuni:anchor_pact_2"
+   },
+   {
+    "name": "chuuni:anchor_pact_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.anchor_pact"
+ },
+ "anchor_blast": {
+  "sounds": [
+   {
+    "name": "chuuni:anchor_blast_1"
+   },
+   {
+    "name": "chuuni:anchor_blast_2"
+   },
+   {
+    "name": "chuuni:anchor_blast_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.anchor_blast"
+ },
+ "beacon_rise": {
+  "sounds": [
+   {
+    "name": "chuuni:beacon_rise_1"
+   },
+   {
+    "name": "chuuni:beacon_rise_2"
+   },
+   {
+    "name": "chuuni:beacon_rise_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.beacon_rise"
+ },
+ "beacon_descent": {
+  "sounds": [
+   {
+    "name": "chuuni:beacon_descent_1"
+   },
+   {
+    "name": "chuuni:beacon_descent_2"
+   },
+   {
+    "name": "chuuni:beacon_descent_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.beacon_descent"
+ },
+ "smith_hammer": {
+  "sounds": [
+   {
+    "name": "chuuni:smith_hammer_1"
+   },
+   {
+    "name": "chuuni:smith_hammer_2"
+   },
+   {
+    "name": "chuuni:smith_hammer_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.smith_hammer"
+ },
+ "smith_fuse": {
+  "sounds": [
+   {
+    "name": "chuuni:smith_fuse_1"
+   },
+   {
+    "name": "chuuni:smith_fuse_2"
+   },
+   {
+    "name": "chuuni:smith_fuse_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.smith_fuse"
+ },
+ "grind_spin": {
+  "sounds": [
+   {
+    "name": "chuuni:grind_spin_1"
+   },
+   {
+    "name": "chuuni:grind_spin_2"
+   },
+   {
+    "name": "chuuni:grind_spin_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.grind_spin"
+ },
+ "grind_strip": {
+  "sounds": [
+   {
+    "name": "chuuni:grind_strip_1"
+   },
+   {
+    "name": "chuuni:grind_strip_2"
+   },
+   {
+    "name": "chuuni:grind_strip_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.grind_strip"
+ },
+ "brew_bubble": {
+  "sounds": [
+   {
+    "name": "chuuni:brew_bubble_1"
+   },
+   {
+    "name": "chuuni:brew_bubble_2"
+   },
+   {
+    "name": "chuuni:brew_bubble_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.brew_bubble"
+ },
+ "brew_transmute": {
+  "sounds": [
+   {
+    "name": "chuuni:brew_transmute_1"
+   },
+   {
+    "name": "chuuni:brew_transmute_2"
+   },
+   {
+    "name": "chuuni:brew_transmute_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.brew_transmute"
+ },
+ "portal_ignite": {
+  "sounds": [
+   {
+    "name": "chuuni:portal_ignite_1"
+   },
+   {
+    "name": "chuuni:portal_ignite_2"
+   },
+   {
+    "name": "chuuni:portal_ignite_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.portal_ignite"
+ },
+ "portal_open": {
+  "sounds": [
+   {
+    "name": "chuuni:portal_open_1"
+   },
+   {
+    "name": "chuuni:portal_open_2"
+   },
+   {
+    "name": "chuuni:portal_open_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.portal_open"
+ },
+ "endeye_insert": {
+  "sounds": [
+   {
+    "name": "chuuni:endeye_insert_1"
+   },
+   {
+    "name": "chuuni:endeye_insert_2"
+   },
+   {
+    "name": "chuuni:endeye_insert_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.endeye_insert"
+ },
+ "end_open": {
+  "sounds": [
+   {
+    "name": "chuuni:end_open_1"
+   },
+   {
+    "name": "chuuni:end_open_2"
+   },
+   {
+    "name": "chuuni:end_open_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.end_open"
+ },
+ "vault_unlock": {
+  "sounds": [
+   {
+    "name": "chuuni:vault_unlock_1"
+   },
+   {
+    "name": "chuuni:vault_unlock_2"
+   },
+   {
+    "name": "chuuni:vault_unlock_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.vault_unlock"
+ },
+ "vault_burst": {
+  "sounds": [
+   {
+    "name": "chuuni:vault_burst_1"
+   },
+   {
+    "name": "chuuni:vault_burst_2"
+   },
+   {
+    "name": "chuuni:vault_burst_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.vault_burst"
+ },
+ "dream_fall": {
+  "sounds": [
+   {
+    "name": "chuuni:dream_fall_1"
+   },
+   {
+    "name": "chuuni:dream_fall_2"
+   },
+   {
+    "name": "chuuni:dream_fall_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.dream_fall"
+ },
+ "dream_dawn": {
+  "sounds": [
+   {
+    "name": "chuuni:dream_dawn_1"
+   },
+   {
+    "name": "chuuni:dream_dawn_2"
+   },
+   {
+    "name": "chuuni:dream_dawn_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.dream_dawn"
+ },
+ "egg_warp": {
+  "sounds": [
+   {
+    "name": "chuuni:egg_warp_1"
+   },
+   {
+    "name": "chuuni:egg_warp_2"
+   },
+   {
+    "name": "chuuni:egg_warp_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.egg_warp"
+ },
+ "egg_appear": {
+  "sounds": [
+   {
+    "name": "chuuni:egg_appear_1"
+   },
+   {
+    "name": "chuuni:egg_appear_2"
+   },
+   {
+    "name": "chuuni:egg_appear_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.egg_appear"
+ },
+ "brush_sweep": {
+  "sounds": [
+   {
+    "name": "chuuni:brush_sweep_1"
+   },
+   {
+    "name": "chuuni:brush_sweep_2"
+   },
+   {
+    "name": "chuuni:brush_sweep_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.brush_sweep"
+ },
+ "relic_reveal": {
+  "sounds": [
+   {
+    "name": "chuuni:relic_reveal_1"
+   },
+   {
+    "name": "chuuni:relic_reveal_2"
+   },
+   {
+    "name": "chuuni:relic_reveal_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.relic_reveal"
+ },
+ "magnet_hum": {
+  "sounds": [
+   {
+    "name": "chuuni:magnet_hum_1"
+   },
+   {
+    "name": "chuuni:magnet_hum_2"
+   },
+   {
+    "name": "chuuni:magnet_hum_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.magnet_hum"
+ },
+ "magnet_lock": {
+  "sounds": [
+   {
+    "name": "chuuni:magnet_lock_1"
+   },
+   {
+    "name": "chuuni:magnet_lock_2"
+   },
+   {
+    "name": "chuuni:magnet_lock_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.magnet_lock"
+ },
+ "seal_open": {
+  "sounds": [
+   {
+    "name": "chuuni:seal_open_1"
+   },
+   {
+    "name": "chuuni:seal_open_2"
+   },
+   {
+    "name": "chuuni:seal_open_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.seal_open"
+ },
+ "seal_close": {
+  "sounds": [
+   {
+    "name": "chuuni:seal_close_1"
+   },
+   {
+    "name": "chuuni:seal_close_2"
+   },
+   {
+    "name": "chuuni:seal_close_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.seal_close"
+ },
+ "cauldron_fill": {
+  "sounds": [
+   {
+    "name": "chuuni:cauldron_fill_1"
+   },
+   {
+    "name": "chuuni:cauldron_fill_2"
+   },
+   {
+    "name": "chuuni:cauldron_fill_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.cauldron_fill"
+ },
+ "cauldron_lava": {
+  "sounds": [
+   {
+    "name": "chuuni:cauldron_lava_1"
+   },
+   {
+    "name": "chuuni:cauldron_lava_2"
+   },
+   {
+    "name": "chuuni:cauldron_lava_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.cauldron_lava"
+ },
+ "cauldron_frost": {
+  "sounds": [
+   {
+    "name": "chuuni:cauldron_frost_1"
+   },
+   {
+    "name": "chuuni:cauldron_frost_2"
+   },
+   {
+    "name": "chuuni:cauldron_frost_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.cauldron_frost"
+ },
+ "cauldron_swirl": {
+  "sounds": [
+   {
+    "name": "chuuni:cauldron_swirl_1"
+   },
+   {
+    "name": "chuuni:cauldron_swirl_2"
+   },
+   {
+    "name": "chuuni:cauldron_swirl_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.cauldron_swirl"
+ },
+ "wax_seal": {
+  "sounds": [
+   {
+    "name": "chuuni:wax_seal_1"
+   },
+   {
+    "name": "chuuni:wax_seal_2"
+   },
+   {
+    "name": "chuuni:wax_seal_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.wax_seal"
+ },
+ "copper_scrape": {
+  "sounds": [
+   {
+    "name": "chuuni:copper_scrape_1"
+   },
+   {
+    "name": "chuuni:copper_scrape_2"
+   },
+   {
+    "name": "chuuni:copper_scrape_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.copper_scrape"
+ },
+ "candle_light": {
+  "sounds": [
+   {
+    "name": "chuuni:candle_light_1"
+   },
+   {
+    "name": "chuuni:candle_light_2"
+   },
+   {
+    "name": "chuuni:candle_light_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.candle_light"
+ },
+ "candle_snuff": {
+  "sounds": [
+   {
+    "name": "chuuni:candle_snuff_1"
+   },
+   {
+    "name": "chuuni:candle_snuff_2"
+   },
+   {
+    "name": "chuuni:candle_snuff_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.candle_snuff"
+ },
+ "camp_ignite": {
+  "sounds": [
+   {
+    "name": "chuuni:camp_ignite_1"
+   },
+   {
+    "name": "chuuni:camp_ignite_2"
+   },
+   {
+    "name": "chuuni:camp_ignite_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.camp_ignite"
+ },
+ "camp_douse": {
+  "sounds": [
+   {
+    "name": "chuuni:camp_douse_1"
+   },
+   {
+    "name": "chuuni:camp_douse_2"
+   },
+   {
+    "name": "chuuni:camp_douse_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.camp_douse"
+ },
+ "camp_place": {
+  "sounds": [
+   {
+    "name": "chuuni:camp_place_1"
+   },
+   {
+    "name": "chuuni:camp_place_2"
+   },
+   {
+    "name": "chuuni:camp_place_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.camp_place"
+ },
+ "tnt_fuse": {
+  "sounds": [
+   {
+    "name": "chuuni:tnt_fuse_1"
+   },
+   {
+    "name": "chuuni:tnt_fuse_2"
+   },
+   {
+    "name": "chuuni:tnt_fuse_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.tnt_fuse"
+ },
+ "stone_saw": {
+  "sounds": [
+   {
+    "name": "chuuni:stone_saw_1"
+   },
+   {
+    "name": "chuuni:stone_saw_2"
+   },
+   {
+    "name": "chuuni:stone_saw_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.stone_saw"
+ },
+ "loom_weave": {
+  "sounds": [
+   {
+    "name": "chuuni:loom_weave_1"
+   },
+   {
+    "name": "chuuni:loom_weave_2"
+   },
+   {
+    "name": "chuuni:loom_weave_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.loom_weave"
+ },
+ "crafter_pulse": {
+  "sounds": [
+   {
+    "name": "chuuni:crafter_pulse_1"
+   },
+   {
+    "name": "chuuni:crafter_pulse_2"
+   },
+   {
+    "name": "chuuni:crafter_pulse_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.crafter_pulse"
+ },
+ "disc_drop": {
+  "sounds": [
+   {
+    "name": "chuuni:disc_drop_1"
+   },
+   {
+    "name": "chuuni:disc_drop_2"
+   },
+   {
+    "name": "chuuni:disc_drop_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.disc_drop"
+ },
+ "book_place": {
+  "sounds": [
+   {
+    "name": "chuuni:book_place_1"
+   },
+   {
+    "name": "chuuni:book_place_2"
+   },
+   {
+    "name": "chuuni:book_place_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.book_place"
+ },
+ "page_turn": {
+  "sounds": [
+   {
+    "name": "chuuni:page_turn_1"
+   },
+   {
+    "name": "chuuni:page_turn_2"
+   },
+   {
+    "name": "chuuni:page_turn_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.page_turn"
+ },
+ "bell_toll": {
+  "sounds": [
+   {
+    "name": "chuuni:bell_toll_1"
+   },
+   {
+    "name": "chuuni:bell_toll_2"
+   },
+   {
+    "name": "chuuni:bell_toll_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.bell_toll"
+ },
+ "compost_add": {
+  "sounds": [
+   {
+    "name": "chuuni:compost_add_1"
+   },
+   {
+    "name": "chuuni:compost_add_2"
+   },
+   {
+    "name": "chuuni:compost_add_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.compost_add"
+ },
+ "compost_harvest": {
+  "sounds": [
+   {
+    "name": "chuuni:compost_harvest_1"
+   },
+   {
+    "name": "chuuni:compost_harvest_2"
+   },
+   {
+    "name": "chuuni:compost_harvest_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.compost_harvest"
+ },
+ "honey_drip": {
+  "sounds": [
+   {
+    "name": "chuuni:honey_drip_1"
+   },
+   {
+    "name": "chuuni:honey_drip_2"
+   },
+   {
+    "name": "chuuni:honey_drip_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.honey_drip"
+ },
+ "comb_cut": {
+  "sounds": [
+   {
+    "name": "chuuni:comb_cut_1"
+   },
+   {
+    "name": "chuuni:comb_cut_2"
+   },
+   {
+    "name": "chuuni:comb_cut_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.comb_cut"
+ },
+ "pumpkin_carve": {
+  "sounds": [
+   {
+    "name": "chuuni:pumpkin_carve_1"
+   },
+   {
+    "name": "chuuni:pumpkin_carve_2"
+   },
+   {
+    "name": "chuuni:pumpkin_carve_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.pumpkin_carve"
+ },
+ "spawner_bind": {
+  "sounds": [
+   {
+    "name": "chuuni:spawner_bind_1"
+   },
+   {
+    "name": "chuuni:spawner_bind_2"
+   },
+   {
+    "name": "chuuni:spawner_bind_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.spawner_bind"
+ },
+ "ender_open": {
+  "sounds": [
+   {
+    "name": "chuuni:ender_open_1"
+   },
+   {
+    "name": "chuuni:ender_open_2"
+   },
+   {
+    "name": "chuuni:ender_open_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.ender_open"
+ },
+ "shulker_open": {
+  "sounds": [
+   {
+    "name": "chuuni:shulker_open_1"
+   },
+   {
+    "name": "chuuni:shulker_open_2"
+   },
+   {
+    "name": "chuuni:shulker_open_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.shulker_open"
+ },
+ "golem_pose": {
+  "sounds": [
+   {
+    "name": "chuuni:golem_pose_1"
+   },
+   {
+    "name": "chuuni:golem_pose_2"
+   },
+   {
+    "name": "chuuni:golem_pose_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.golem_pose"
+ },
+ "sign_dye": {
+  "sounds": [
+   {
+    "name": "chuuni:sign_dye_1"
+   },
+   {
+    "name": "chuuni:sign_dye_2"
+   },
+   {
+    "name": "chuuni:sign_dye_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.sign_dye"
+ },
+ "sign_glow": {
+  "sounds": [
+   {
+    "name": "chuuni:sign_glow_1"
+   },
+   {
+    "name": "chuuni:sign_glow_2"
+   },
+   {
+    "name": "chuuni:sign_glow_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.sign_glow"
+ },
+ "cake_bite": {
+  "sounds": [
+   {
+    "name": "chuuni:cake_bite_1"
+   },
+   {
+    "name": "chuuni:cake_bite_2"
+   },
+   {
+    "name": "chuuni:cake_bite_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.cake_bite"
+ },
+ "lid_thud": {
+  "sounds": [
+   {
+    "name": "chuuni:lid_thud_1"
+   },
+   {
+    "name": "chuuni:lid_thud_2"
+   },
+   {
+    "name": "chuuni:lid_thud_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.lid_thud"
+ },
+ "hatch_clank": {
+  "sounds": [
+   {
+    "name": "chuuni:hatch_clank_1"
+   },
+   {
+    "name": "chuuni:hatch_clank_2"
+   },
+   {
+    "name": "chuuni:hatch_clank_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.hatch_clank"
+ },
+ "book_slide": {
+  "sounds": [
+   {
+    "name": "chuuni:book_slide_1"
+   },
+   {
+    "name": "chuuni:book_slide_2"
+   },
+   {
+    "name": "chuuni:book_slide_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.book_slide"
+ },
+ "shelf_place": {
+  "sounds": [
+   {
+    "name": "chuuni:shelf_place_1"
+   },
+   {
+    "name": "chuuni:shelf_place_2"
+   },
+   {
+    "name": "chuuni:shelf_place_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.shelf_place"
+ },
+ "pot_drop": {
+  "sounds": [
+   {
+    "name": "chuuni:pot_drop_1"
+   },
+   {
+    "name": "chuuni:pot_drop_2"
+   },
+   {
+    "name": "chuuni:pot_drop_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.pot_drop"
+ },
+ "plant_settle": {
+  "sounds": [
+   {
+    "name": "chuuni:plant_settle_1"
+   },
+   {
+    "name": "chuuni:plant_settle_2"
+   },
+   {
+    "name": "chuuni:plant_settle_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.plant_settle"
+ },
+ "note_glow": {
+  "sounds": [
+   {
+    "name": "chuuni:note_glow_1"
+   },
+   {
+    "name": "chuuni:note_glow_2"
+   },
+   {
+    "name": "chuuni:note_glow_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.note_glow"
+ },
+ "lever_click": {
+  "sounds": [
+   {
+    "name": "chuuni:lever_click_1"
+   },
+   {
+    "name": "chuuni:lever_click_2"
+   },
+   {
+    "name": "chuuni:lever_click_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.lever_click"
+ },
+ "button_tick": {
+  "sounds": [
+   {
+    "name": "chuuni:button_tick_1"
+   },
+   {
+    "name": "chuuni:button_tick_2"
+   },
+   {
+    "name": "chuuni:button_tick_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.button_tick"
+ },
+ "diode_tick": {
+  "sounds": [
+   {
+    "name": "chuuni:diode_tick_1"
+   },
+   {
+    "name": "chuuni:diode_tick_2"
+   },
+   {
+    "name": "chuuni:diode_tick_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.diode_tick"
+ },
+ "daylight_flip": {
+  "sounds": [
+   {
+    "name": "chuuni:daylight_flip_1"
+   },
+   {
+    "name": "chuuni:daylight_flip_2"
+   },
+   {
+    "name": "chuuni:daylight_flip_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.daylight_flip"
+ },
+ "bark_peel": {
+  "sounds": [
+   {
+    "name": "chuuni:bark_peel_1"
+   },
+   {
+    "name": "chuuni:bark_peel_2"
+   },
+   {
+    "name": "chuuni:bark_peel_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.bark_peel"
+ },
+ "soil_till": {
+  "sounds": [
+   {
+    "name": "chuuni:soil_till_1"
+   },
+   {
+    "name": "chuuni:soil_till_2"
+   },
+   {
+    "name": "chuuni:soil_till_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.soil_till"
+ },
+ "path_press": {
+  "sounds": [
+   {
+    "name": "chuuni:path_press_1"
+   },
+   {
+    "name": "chuuni:path_press_2"
+   },
+   {
+    "name": "chuuni:path_press_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.path_press"
+ },
+ "bloom_burst": {
+  "sounds": [
+   {
+    "name": "chuuni:bloom_burst_1"
+   },
+   {
+    "name": "chuuni:bloom_burst_2"
+   },
+   {
+    "name": "chuuni:bloom_burst_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.bloom_burst"
+ },
+ "berry_pop": {
+  "sounds": [
+   {
+    "name": "chuuni:berry_pop_1"
+   },
+   {
+    "name": "chuuni:berry_pop_2"
+   },
+   {
+    "name": "chuuni:berry_pop_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.berry_pop"
+ },
+ "golem_awaken": {
+  "sounds": [
+   {
+    "name": "chuuni:golem_awaken_1"
+   },
+   {
+    "name": "chuuni:golem_awaken_2"
+   },
+   {
+    "name": "chuuni:golem_awaken_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.golem_awaken"
+ },
+ "golem_stomp": {
+  "sounds": [
+   {
+    "name": "chuuni:golem_stomp_1"
+   },
+   {
+    "name": "chuuni:golem_stomp_2"
+   },
+   {
+    "name": "chuuni:golem_stomp_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.golem_stomp"
+ },
+ "wither_storm": {
+  "sounds": [
+   {
+    "name": "chuuni:wither_storm_1"
+   },
+   {
+    "name": "chuuni:wither_storm_2"
+   },
+   {
+    "name": "chuuni:wither_storm_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.wither_storm"
+ },
+ "wither_roar": {
+  "sounds": [
+   {
+    "name": "chuuni:wither_roar_1"
+   },
+   {
+    "name": "chuuni:wither_roar_2"
+   },
+   {
+    "name": "chuuni:wither_roar_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.wither_roar"
+ },
+ "snow_spirit": {
+  "sounds": [
+   {
+    "name": "chuuni:snow_spirit_1"
+   },
+   {
+    "name": "chuuni:snow_spirit_2"
+   },
+   {
+    "name": "chuuni:snow_spirit_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.snow_spirit"
+ },
+ "copper_birth": {
+  "sounds": [
+   {
+    "name": "chuuni:copper_birth_1"
+   },
+   {
+    "name": "chuuni:copper_birth_2"
+   },
+   {
+    "name": "chuuni:copper_birth_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.copper_birth"
+ },
+ "tame_bond": {
+  "sounds": [
+   {
+    "name": "chuuni:tame_bond_1"
+   },
+   {
+    "name": "chuuni:tame_bond_2"
+   },
+   {
+    "name": "chuuni:tame_bond_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.tame_bond"
+ },
+ "name_bestow": {
+  "sounds": [
+   {
+    "name": "chuuni:name_bestow_1"
+   },
+   {
+    "name": "chuuni:name_bestow_2"
+   },
+   {
+    "name": "chuuni:name_bestow_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.name_bestow"
+ },
+ "shear_snip": {
+  "sounds": [
+   {
+    "name": "chuuni:shear_snip_1"
+   },
+   {
+    "name": "chuuni:shear_snip_2"
+   },
+   {
+    "name": "chuuni:shear_snip_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.shear_snip"
+ },
+ "milk_pour": {
+  "sounds": [
+   {
+    "name": "chuuni:milk_pour_1"
+   },
+   {
+    "name": "chuuni:milk_pour_2"
+   },
+   {
+    "name": "chuuni:milk_pour_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.milk_pour"
+ },
+ "equip_armor": {
+  "sounds": [
+   {
+    "name": "chuuni:equip_armor_1"
+   },
+   {
+    "name": "chuuni:equip_armor_2"
+   },
+   {
+    "name": "chuuni:equip_armor_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.equip_armor"
+ },
+ "mob_dye": {
+  "sounds": [
+   {
+    "name": "chuuni:mob_dye_1"
+   },
+   {
+    "name": "chuuni:mob_dye_2"
+   },
+   {
+    "name": "chuuni:mob_dye_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.mob_dye"
+ },
+ "scute_brush": {
+  "sounds": [
+   {
+    "name": "chuuni:scute_brush_1"
+   },
+   {
+    "name": "chuuni:scute_brush_2"
+   },
+   {
+    "name": "chuuni:scute_brush_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.scute_brush"
+ },
+ "allay_chime": {
+  "sounds": [
+   {
+    "name": "chuuni:allay_chime_1"
+   },
+   {
+    "name": "chuuni:allay_chime_2"
+   },
+   {
+    "name": "chuuni:allay_chime_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.allay_chime"
+ },
+ "bucket_catch": {
+  "sounds": [
+   {
+    "name": "chuuni:bucket_catch_1"
+   },
+   {
+    "name": "chuuni:bucket_catch_2"
+   },
+   {
+    "name": "chuuni:bucket_catch_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.bucket_catch"
+ },
+ "barter_gold": {
+  "sounds": [
+   {
+    "name": "chuuni:barter_gold_1"
+   },
+   {
+    "name": "chuuni:barter_gold_2"
+   },
+   {
+    "name": "chuuni:barter_gold_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.barter_gold"
+ },
+ "creeper_hiss": {
+  "sounds": [
+   {
+    "name": "chuuni:creeper_hiss_1"
+   },
+   {
+    "name": "chuuni:creeper_hiss_2"
+   },
+   {
+    "name": "chuuni:creeper_hiss_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.creeper_hiss"
+ },
+ "crystal_place": {
+  "sounds": [
+   {
+    "name": "chuuni:crystal_place_1"
+   },
+   {
+    "name": "chuuni:crystal_place_2"
+   },
+   {
+    "name": "chuuni:crystal_place_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.crystal_place"
+ },
+ "cure_start": {
+  "sounds": [
+   {
+    "name": "chuuni:cure_start_1"
+   },
+   {
+    "name": "chuuni:cure_start_2"
+   },
+   {
+    "name": "chuuni:cure_start_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.cure_start"
+ },
+ "cure_finish": {
+  "sounds": [
+   {
+    "name": "chuuni:cure_finish_1"
+   },
+   {
+    "name": "chuuni:cure_finish_2"
+   },
+   {
+    "name": "chuuni:cure_finish_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.cure_finish"
+ },
+ "trade_seal": {
+  "sounds": [
+   {
+    "name": "chuuni:trade_seal_1"
+   },
+   {
+    "name": "chuuni:trade_seal_2"
+   },
+   {
+    "name": "chuuni:trade_seal_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.trade_seal"
+ },
+ "stand_equip": {
+  "sounds": [
+   {
+    "name": "chuuni:stand_equip_1"
+   },
+   {
+    "name": "chuuni:stand_equip_2"
+   },
+   {
+    "name": "chuuni:stand_equip_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.stand_equip"
+ },
+ "frame_place": {
+  "sounds": [
+   {
+    "name": "chuuni:frame_place_1"
+   },
+   {
+    "name": "chuuni:frame_place_2"
+   },
+   {
+    "name": "chuuni:frame_place_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.frame_place"
+ },
+ "frame_rotate": {
+  "sounds": [
+   {
+    "name": "chuuni:frame_rotate_1"
+   },
+   {
+    "name": "chuuni:frame_rotate_2"
+   },
+   {
+    "name": "chuuni:frame_rotate_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.frame_rotate"
+ },
+ "love_heart": {
+  "sounds": [
+   {
+    "name": "chuuni:love_heart_1"
+   },
+   {
+    "name": "chuuni:love_heart_2"
+   },
+   {
+    "name": "chuuni:love_heart_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.love_heart"
+ },
+ "leash_tie": {
+  "sounds": [
+   {
+    "name": "chuuni:leash_tie_1"
+   },
+   {
+    "name": "chuuni:leash_tie_2"
+   },
+   {
+    "name": "chuuni:leash_tie_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.leash_tie"
+ },
+ "mount_ride": {
+  "sounds": [
+   {
+    "name": "chuuni:mount_ride_1"
+   },
+   {
+    "name": "chuuni:mount_ride_2"
+   },
+   {
+    "name": "chuuni:mount_ride_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.mount_ride"
+ },
+ "bottle_fill": {
+  "sounds": [
+   {
+    "name": "chuuni:bottle_fill_1"
+   },
+   {
+    "name": "chuuni:bottle_fill_2"
+   },
+   {
+    "name": "chuuni:bottle_fill_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.bottle_fill"
+ },
+ "bucket_fill": {
+  "sounds": [
+   {
+    "name": "chuuni:bucket_fill_1"
+   },
+   {
+    "name": "chuuni:bucket_fill_2"
+   },
+   {
+    "name": "chuuni:bucket_fill_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.bucket_fill"
+ },
+ "bucket_pour": {
+  "sounds": [
+   {
+    "name": "chuuni:bucket_pour_1"
+   },
+   {
+    "name": "chuuni:bucket_pour_2"
+   },
+   {
+    "name": "chuuni:bucket_pour_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.bucket_pour"
+ },
+ "mud_make": {
+  "sounds": [
+   {
+    "name": "chuuni:mud_make_1"
+   },
+   {
+    "name": "chuuni:mud_make_2"
+   },
+   {
+    "name": "chuuni:mud_make_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.mud_make"
+ },
+ "wire_toggle": {
+  "sounds": [
+   {
+    "name": "chuuni:wire_toggle_1"
+   },
+   {
+    "name": "chuuni:wire_toggle_2"
+   },
+   {
+    "name": "chuuni:wire_toggle_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.wire_toggle"
+ },
+ "ore_glow": {
+  "sounds": [
+   {
+    "name": "chuuni:ore_glow_1"
+   },
+   {
+    "name": "chuuni:ore_glow_2"
+   },
+   {
+    "name": "chuuni:ore_glow_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.ore_glow"
+ },
+ "bell_deep": {
+  "sounds": [
+   {
+    "name": "chuuni:bell_deep_1"
+   },
+   {
+    "name": "chuuni:bell_deep_2"
+   },
+   {
+    "name": "chuuni:bell_deep_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.bell_deep"
+ },
+ "bell_final": {
+  "sounds": [
+   {
+    "name": "chuuni:bell_final_1"
+   },
+   {
+    "name": "chuuni:bell_final_2"
+   },
+   {
+    "name": "chuuni:bell_final_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.bell_final"
+ },
+ "pearl_throw": {
+  "sounds": [
+   {
+    "name": "chuuni:pearl_throw_1"
+   },
+   {
+    "name": "chuuni:pearl_throw_2"
+   },
+   {
+    "name": "chuuni:pearl_throw_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.pearl_throw"
+ },
+ "pearl_warp": {
+  "sounds": [
+   {
+    "name": "chuuni:pearl_warp_1"
+   },
+   {
+    "name": "chuuni:pearl_warp_2"
+   },
+   {
+    "name": "chuuni:pearl_warp_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.pearl_warp"
+ },
+ "eye_launch": {
+  "sounds": [
+   {
+    "name": "chuuni:eye_launch_1"
+   },
+   {
+    "name": "chuuni:eye_launch_2"
+   },
+   {
+    "name": "chuuni:eye_launch_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.eye_launch"
+ },
+ "eye_shatter": {
+  "sounds": [
+   {
+    "name": "chuuni:eye_shatter_1"
+   },
+   {
+    "name": "chuuni:eye_shatter_2"
+   },
+   {
+    "name": "chuuni:eye_shatter_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.eye_shatter"
+ },
+ "blast_boom": {
+  "sounds": [
+   {
+    "name": "chuuni:blast_boom_1"
+   },
+   {
+    "name": "chuuni:blast_boom_2"
+   },
+   {
+    "name": "chuuni:blast_boom_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.blast_boom"
+ },
+ "beam_rise": {
+  "sounds": [
+   {
+    "name": "chuuni:beam_rise_1"
+   },
+   {
+    "name": "chuuni:beam_rise_2"
+   },
+   {
+    "name": "chuuni:beam_rise_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.beam_rise"
+ },
+ "portal_spiral": {
+  "sounds": [
+   {
+    "name": "chuuni:portal_spiral_1"
+   },
+   {
+    "name": "chuuni:portal_spiral_2"
+   },
+   {
+    "name": "chuuni:portal_spiral_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.portal_spiral"
+ },
+ "circle_burst": {
+  "sounds": [
+   {
+    "name": "chuuni:circle_burst_1"
+   },
+   {
+    "name": "chuuni:circle_burst_2"
+   },
+   {
+    "name": "chuuni:circle_burst_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.circle_burst"
+ },
+ "book_glow": {
+  "sounds": [
+   {
+    "name": "chuuni:book_glow_1"
+   },
+   {
+    "name": "chuuni:book_glow_2"
+   },
+   {
+    "name": "chuuni:book_glow_3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.book_glow"
+ },
+ "anime_inhale": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_inhale"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.anime_inhale"
+ },
+ "anime_hit": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_hit"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.anime_hit"
+ },
+ "anime_slowmo": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_slowmo"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.anime_slowmo"
+ },
+ "anime_title": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_title"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.anime_title"
+ },
+ "anime_char": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_char"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.anime_char"
+ },
+ "anime_shakin": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_shakin"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.anime_shakin"
+ },
+ "anime_kira": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_kira"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.anime_kira"
+ },
+ "anime_eye_shine": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_eye_shine"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.anime_eye_shine"
+ },
+ "anime_circle": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_circle"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.anime_circle"
+ },
+ "anime_aura": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_aura"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.anime_aura"
+ },
+ "anime_dash": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_dash"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.anime_dash"
+ },
+ "anime_warp": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_warp"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.anime_warp"
+ },
+ "anime_rise": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_rise"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.anime_rise"
+ },
+ "anime_temple_bell": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_temple_bell"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.anime_temple_bell"
+ },
+ "anime_holy": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_holy"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.anime_holy"
+ },
+ "anime_bomb": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_bomb"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.anime_bomb"
+ },
+ "anime_bomb_small": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_bomb_small"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.anime_bomb_small"
+ },
+ "anime_punch_real_swing3": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_punch_real_swing3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.whoosh"
+ },
+ "anime_shine4": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_shine4"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.sparkle"
+ },
+ "anime_metal_logo1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_metal_logo1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.title_slam"
+ },
+ "anime_decision10": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_decision10"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.combo_ping"
+ },
+ "anime_magic_cure4": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_magic_cure4"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.holy_descend"
+ },
+ "anime_magic_circle1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_magic_circle1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.enchant_charge"
+ },
+ "anime_magic_attack_holy1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_magic_attack_holy1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.enchant_beam"
+ },
+ "anime_magic_flame2": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_magic_flame2"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.forge_ignite"
+ },
+ "anime_sword_clash2": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_sword_clash2"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.forge_clang"
+ },
+ "anime_sword_clash3": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_sword_clash3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.forge_final"
+ },
+ "anime_magic_ice2": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_magic_ice2"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.forge_quench"
+ },
+ "anime_eye_shine2": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_eye_shine2"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.blade_glint"
+ },
+ "anime_paper_take2": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_paper_take2"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.craft_blueprint"
+ },
+ "anime_union3": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_union3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.craft_assemble"
+ },
+ "anime_union1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_union1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.craft_forge"
+ },
+ "anime_newspaper_take1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_newspaper_take1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.map_unfurl"
+ },
+ "anime_robot_startup2": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_robot_startup2"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.holo_boot"
+ },
+ "anime_wepon_swing1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_wepon_swing1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.compass_spin"
+ },
+ "anime_robot_eye_flash1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_robot_eye_flash1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.eye_open"
+ },
+ "anime_data_analysis1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_data_analysis1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.world_scan"
+ },
+ "anime_magic_flame1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_magic_flame1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.fire_ignite"
+ },
+ "anime_dragon_fire1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_dragon_fire1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.fire_roar"
+ },
+ "anime_magic_flame3": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_magic_flame3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.inferno_burst"
+ },
+ "anime_fire1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_fire1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.ember_settle"
+ },
+ "anime_beam_gun_charge1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_beam_gun_charge1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.plasma_charge"
+ },
+ "anime_iainuki1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_iainuki1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.plasma_cut"
+ },
+ "anime_train_door1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_train_door1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.steam_cool"
+ },
+ "anime_magic_wind1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_magic_wind1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.smoke_swirl"
+ },
+ "anime_ban1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_ban1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.smoke_gong"
+ },
+ "anime_tirin1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_tirin1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.incense_settle"
+ },
+ "anime_magic_charge1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_magic_charge1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.anchor_charge"
+ },
+ "anime_magic_attack_darkness1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_magic_attack_darkness1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.anchor_pact"
+ },
+ "anime_big_explosion2": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_big_explosion2"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.anchor_blast"
+ },
+ "anime_magic_statusup1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_magic_statusup1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.beacon_rise"
+ },
+ "anime_machine_hard_hit1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_machine_hard_hit1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.smith_hammer"
+ },
+ "anime_qigong2": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_qigong2"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.smith_fuse"
+ },
+ "anime_giant_motor1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_giant_motor1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.grind_spin"
+ },
+ "anime_magic_drain2": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_magic_drain2"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.grind_strip"
+ },
+ "anime_water_bukubuku1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_water_bukubuku1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.brew_bubble"
+ },
+ "anime_magic_status_cure2": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_magic_status_cure2"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.brew_transmute"
+ },
+ "anime_slow_motion_end1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_slow_motion_end1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.end_open"
+ },
+ "anime_key_in1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_key_in1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.vault_unlock"
+ },
+ "anime_item_get2": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_item_get2"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.vault_burst"
+ },
+ "anime_remember_the_past1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_remember_the_past1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.dream_fall"
+ },
+ "anime_shine2": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_shine2"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.dream_dawn"
+ },
+ "anime_magic_worp1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_magic_worp1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.egg_warp"
+ },
+ "anime_dragon_cry2": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_dragon_cry2"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.egg_appear"
+ },
+ "anime_broom_fallen_leaves2": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_broom_fallen_leaves2"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.brush_sweep"
+ },
+ "anime_shine1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_shine1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.relic_reveal"
+ },
+ "anime_magic_gravity2": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_magic_gravity2"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.magnet_hum"
+ },
+ "anime_katana_hold1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_katana_hold1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.magnet_lock"
+ },
+ "anime_shakin3": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_shakin3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.seal_open"
+ },
+ "anime_katana_storage1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_katana_storage1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.seal_close"
+ },
+ "anime_sprinkle_water1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_sprinkle_water1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.cauldron_fill"
+ },
+ "anime_magma_lake1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_magma_lake1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.cauldron_lava"
+ },
+ "anime_magic_ice1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_magic_ice1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.cauldron_frost"
+ },
+ "anime_magic_poison2": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_magic_poison2"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.cauldron_swirl"
+ },
+ "anime_peta1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_peta1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.wax_seal"
+ },
+ "anime_sword_drawn1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_sword_drawn1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.copper_scrape"
+ },
+ "anime_cute_pose1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_cute_pose1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.candle_light"
+ },
+ "anime_cancel4": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_cancel4"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.candle_snuff"
+ },
+ "anime_emergency_alert1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_emergency_alert1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.tnt_fuse"
+ },
+ "anime_katana_slash5": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_katana_slash5"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.stone_saw"
+ },
+ "anime_magic_stick1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_magic_stick1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.loom_weave"
+ },
+ "anime_arm_action2": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_arm_action2"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.crafter_pulse"
+ },
+ "anime_jajean1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_jajean1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.disc_drop"
+ },
+ "anime_solemnity1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_solemnity1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.book_place"
+ },
+ "anime_page2": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_page2"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.page_turn"
+ },
+ "anime_nyu1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_nyu1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.compost_add"
+ },
+ "anime_magic_cure2": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_magic_cure2"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.compost_harvest"
+ },
+ "anime_glass_wine1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_glass_wine1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.honey_drip"
+ },
+ "anime_knife_slash_1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_knife_slash_1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.comb_cut"
+ },
+ "anime_horror_text1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_horror_text1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.pumpkin_carve"
+ },
+ "anime_magic_drain1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_magic_drain1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.spawner_bind"
+ },
+ "anime_treasure_chest1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_treasure_chest1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.ender_open"
+ },
+ "anime_extend1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_extend1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.shulker_open"
+ },
+ "anime_robot_footstep2": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_robot_footstep2"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.golem_pose"
+ },
+ "anime_magic_cap_write1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_magic_cap_write1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.sign_dye"
+ },
+ "anime_shine3": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_shine3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.sign_glow"
+ },
+ "anime_suck1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_suck1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.cake_bite"
+ },
+ "anime_nyu3": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_nyu3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.plant_settle"
+ },
+ "anime_decision28": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_decision28"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.note_glow"
+ },
+ "anime_decision19": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_decision19"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.lever_click"
+ },
+ "anime_decision31": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_decision31"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.button_tick"
+ },
+ "anime_cursor4": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_cursor4"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.diode_tick"
+ },
+ "anime_decision21": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_decision21"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.daylight_flip"
+ },
+ "anime_paper_tear2": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_paper_tear2"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.bark_peel"
+ },
+ "anime_step_into1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_step_into1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.soil_till"
+ },
+ "anime_landing1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_landing1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.path_press"
+ },
+ "anime_shine5": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_shine5"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.bloom_burst"
+ },
+ "anime_pa1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_pa1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.berry_pop"
+ },
+ "anime_robot_startup1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_robot_startup1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.golem_awaken"
+ },
+ "anime_union2": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_union2"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.golem_stomp"
+ },
+ "anime_magic_electron3": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_magic_electron3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.wither_storm"
+ },
+ "anime_dragon_cry1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_dragon_cry1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.wither_roar"
+ },
+ "anime_magic_ice3": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_magic_ice3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.snow_spirit"
+ },
+ "anime_arm_action1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_arm_action1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.copper_birth"
+ },
+ "anime_heart2": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_heart2"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.tame_bond"
+ },
+ "anime_hero1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_hero1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.name_bestow"
+ },
+ "anime_water_shed1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_water_shed1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.milk_pour"
+ },
+ "anime_decision14": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_decision14"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.equip_armor"
+ },
+ "anime_cute_pose2": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_cute_pose2"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.mob_dye"
+ },
+ "anime_shine6": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_shine6"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.allay_chime"
+ },
+ "anime_water_throw_stone1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_water_throw_stone1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.bucket_catch"
+ },
+ "anime_item_get1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_item_get1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.barter_gold"
+ },
+ "anime_approaching_fear1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_approaching_fear1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.creeper_hiss"
+ },
+ "anime_decision16": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_decision16"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.crystal_place"
+ },
+ "anime_magic_status_cure1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_magic_status_cure1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.cure_start"
+ },
+ "anime_magic_cure3": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_magic_cure3"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.cure_finish"
+ },
+ "anime_amount_display1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_amount_display1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.trade_seal"
+ },
+ "anime_decision7": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_decision7"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.frame_place"
+ },
+ "anime_cursor2": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_cursor2"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.frame_rotate"
+ },
+ "anime_constriction1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_constriction1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.leash_tie"
+ },
+ "anime_rubbing_clothes_kick2": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_rubbing_clothes_kick2"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.mount_ride"
+ },
+ "anime_glass_water1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_glass_water1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.bottle_fill"
+ },
+ "anime_sprinkle_water2": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_sprinkle_water2"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.bucket_fill"
+ },
+ "anime_bath_out1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_bath_out1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.bucket_pour"
+ },
+ "anime_magic_electron1": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_magic_electron1"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.wire_toggle"
+ },
+ "anime_magic_electron2": {
+  "sounds": [
+   {
+    "name": "chuuni:anime_magic_electron2"
+   }
+  ],
+  "subtitle": "subtitles.chuuni.ore_glow"
+ }
+}

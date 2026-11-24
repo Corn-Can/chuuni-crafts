@@ -1,0 +1,12 @@
+{
+	"schemaVersion": 1,
+	"id": "chuuni-test",
+	"version": "1.0.0",
+	"name": "Chuuni Crafts Tests",
+	"environment": "*",
+	"entrypoints": {
+		"fabric-client-gametest": [
+			"com.chuuni.test.ChuuniClientGameTest"
+		]
+	}
+}
